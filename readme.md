@@ -140,12 +140,12 @@ You can export the `.aia` file and customize the app easily.
 - LED cathode → GND
 
 If your board has an onboard LED, no wiring needed.
-<img src="images/Circuit_setup_1.jpg" alt="App Screenshot 1" width="45%">
-<img src="images/Circuit_setup_2.jpg" alt="App Screenshot 1" width="45%">
-<img src="images/Circuit_setup_3.jpg" alt="App Screenshot 1" width="45%">
-<img src="images/Circuit_setup_4.jpg" alt="App Screenshot 1" width="45%">
-<img src="images/Circuit_setup_5.jpg" alt="App Screenshot 1" width="45%">
-<video autoplay src="images/Circuit_setup_video.mp4" alt="App Screenshot 1" width="45%">
+<img src="images/Circuit_setup_1.jpg" alt="App Screenshot 1" width="45%"><br/>
+<img src="images/Circuit_setup_2.jpg" alt="App Screenshot 1" width="45%"><br/>
+<img src="images/Circuit_setup_3.jpg" alt="App Screenshot 1" width="45%"><br/>
+<img src="images/Circuit_setup_4.jpg" alt="App Screenshot 1" width="45%"><br/>
+<img src="images/Circuit_setup_5.jpg" alt="App Screenshot 1" width="45%"><br/>
+<video autoplay src="images/Circuit_setup_video.mp4" alt="App Screenshot 1" width="45%"><br/>
 
 ---
 
