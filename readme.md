@@ -156,9 +156,6 @@ If your board has an onboard LED, no wiring needed.
   </a>
 </p>
 
-<p align="center">
-  <em>Click the image above to watch the video demonstration.</em>
-</p>
 
 ---
 
