@@ -151,7 +151,7 @@ If your board has an onboard LED, no wiring needed.
 </p>
 
 <p align="center">
-  <a href="images/Circuit_setup_video.mp4">
+  <a href="images/Circuit_setup_video.gif">
     <img src="media.gif" alt="Click to watch the video" width="60%">
   </a>
 </p>
