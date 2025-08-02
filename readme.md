@@ -144,7 +144,7 @@ If your board has an onboard LED, no wiring needed.
 
 ## 🛠️ Real Project Setup
 
-<p align="center">
+<p>
   <img src="images/Circuit_setup_1.jpg" alt="Circuit Setup 1" width="45%"><br/>
   <img src="images/Circuit_setup_2.jpg" alt="Circuit Setup 2" width="45%"><br/>
   <img src="images/Circuit_setup_3.jpg" alt="Circuit Setup 3" width="45%"><br/>
@@ -152,7 +152,7 @@ If your board has an onboard LED, no wiring needed.
   <img src="images/Circuit_setup_5.jpg" alt="Circuit Setup 5" width="45%"><br/>
 </p>
 
-<p align="center">
+<p>
   <a href="images/Circuit_setup_video.mp4" target="_blank">
     <img src="images/video_thumbnail.jpg" alt="Click to watch the demo" width="60%">
   </a><br/>
