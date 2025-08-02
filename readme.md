@@ -9,10 +9,11 @@
   <em><code>❯ BLE-controlled LED with ESP32-S3 + Android App</code></em>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/license/Neil-Tomar/ESP32S3_Bluetooth_Blink?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-  <img src="https://img.shields.io/github/last-commit/Neil-Tomar/ESP32S3_Bluetooth_Blink?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-  <img src="https://img.shields.io/github/languages/top/Neil-Tomar/ESP32S3_Bluetooth_Blink?style=default&color=0080ff" alt="repo-top-language">
+  <img src="https://img.shields.io/github/last-commit/Neil-Tomar/ESP32S3_Bluetooth_Blink?style=for-the-badge&logo=github" alt="last commit">
+  <img src="https://img.shields.io/github/repo-size/Neil-Tomar/ESP32S3_Bluetooth_Blink?style=for-the-badge&logo=dropbox" alt="repo size">
+  <img src="https://img.shields.io/github/license/Neil-Tomar/ESP32S3_Bluetooth_Blink?style=for-the-badge" alt="license">
 </p>
+
 
 ---
 
