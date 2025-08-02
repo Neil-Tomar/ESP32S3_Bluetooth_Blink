@@ -152,12 +152,14 @@ If your board has an onboard LED, no wiring needed.
   <img src="images/Circuit_setup_5.jpg" alt="Circuit Setup 5" width="45%"><br/>
 </p>
 
+<h3>🎬 Circuit Setup Demo</h3>
 <p>
   <a href="images/Circuit_setup_video.mp4" target="_blank">
     <img src="images/video_thumbnail.jpg" alt="Click to watch the demo" width="60%">
   </a><br/>
   <em>Click the image to watch the demo</em>
 </p>
+
 
 
 This is an actual photo of the working setup.
