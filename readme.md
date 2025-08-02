@@ -8,7 +8,8 @@
 <p align="center">
   <em><code>❯ BLE-controlled LED with ESP32-S3 + Android App</code></em>
 </p>
-<div align="center">
+
+
 <div align="center">
   <img src="https://img.shields.io/github/last-commit/Neil-Tomar/ESP32S3_Bluetooth_Blink?style=for-the-badge&logo=github&color=a6da95&logoColor=D9E0EE&labelColor=302D41"/>
   <img src="https://img.shields.io/github/repo-size/Neil-Tomar/ESP32S3_Bluetooth_Blink?style=for-the-badge&logo=dropbox&color=7dc4e4&logoColor=D9E0EE&labelColor=302D41"/>
