@@ -142,6 +142,8 @@ You can export the `.aia` file and customize the app easily.
 If your board has an onboard LED, no wiring needed.
 <br/>
 
+## 🛠️ Real Project Setup
+
 <p align="center">
   <img src="images/Circuit_setup_1.jpg" alt="Circuit Setup 1" width="45%"><br/>
   <img src="images/Circuit_setup_2.jpg" alt="Circuit Setup 2" width="45%"><br/>
@@ -151,12 +153,14 @@ If your board has an onboard LED, no wiring needed.
 </p>
 
 <p align="center">
-  <a href="images/Circuit_setup_video.gif">
-    <img src="media.gif" alt="Click to watch the video" width="60%">
+  <a href="images/Circuit_setup_video.mp4" target="_blank">
+    <img src="images/video_thumbnail.jpg" alt="Click to watch the demo" width="60%">
   </a><br/>
-  <em>Click image to view circuit setup in action</em>
+  <em>Click the image to watch the demo</em>
 </p>
 
+
+This is an actual photo of the working setup.
 
 ---
 
